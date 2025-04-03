@@ -1,12 +1,12 @@
 {
-    "name": "Space Shooter",
-    "short_name": "Space Shooter",
+    "name": "_transkibator_ui",
+    "short_name": "_transkibator_ui",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#000000",
-    "theme_color": "#4A90E2",
-    "description": "A space shooter game built with Flutter",
-    "orientation": "landscape",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter project.",
+    "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
